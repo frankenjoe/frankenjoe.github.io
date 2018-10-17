@@ -1,0 +1,144 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    background: #FCFCFC;
+}
+
+body {
+    color: #333;
+    font: 18px/24px 'old standard tt', sans-serif;
+    margin: 0 auto;
+    max-width: 700px;
+    _width: 700px;
+    padding: 0 10px;
+    text-align: center;
+    -webkit-font-smoothing: antialiased;
+}
+
+a:link {
+	color: #333;
+	text-decoration: none;
+}
+	
+a:visited {
+    color: #333;
+	text-decoration: none	
+}
+
+a:hover {
+	color: #333;
+	text-decoration: none;
+	text-shadow: 1px 1px 2px #010101;
+}
+
+a:active {
+	color: #333;
+	text-decoration: none	
+}
+    
+#header {
+    background: #808080;
+    width: 100%;
+    color: #FFF;
+    font: 24px/24px 'Tangerine', sans-serif;
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
+
+#header a:link {
+	color: #FFF;
+	text-decoration: none;
+}
+	
+#header a:visited {
+    color: #FFF;
+	text-decoration: none	
+}
+
+#header a:hover {
+	color: #FFF;
+	text-decoration: none;
+	text-shadow: 1px 1px 2px #010101;
+}
+
+#header a:active {
+	color: #FFF;
+	text-decoration: none	
+}
+
+#navigation    {
+    background: #DDD;
+    width: 100%;
+    color: #333;
+    font: 32px/24px 'Tangerine', sans-serif;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}    
+    
+#navigation ul {    
+}
+
+#navigation li {
+	display: inline;
+	list-style-type: none;
+	margin: 10px;
+}
+
+#kontakt {
+	padding-top: 25px;
+	padding-bottom: 5px;
+}
+
+#kontakt p {
+	margin: 5px;
+}
+
+#wrapper {
+    float: left;
+    width: 100%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#vita {
+	margin-top: 25px;
+	margin-left: 0px;
+}
+    
+#vita    ul {
+	font: 28px/32px 'Tangerine', sans-serif;
+	list-style-type: none;
+	text-align: center;
+	margin-top: 0px;
+	margin-bottom: 0px	;
+	margin-left: 55px;
+	list-style-position: inside;
+ }
+ 
+#vita p {
+	font: 32px/38px 'Tangerine', sans-serif;
+	margin-bottom: 15px;
+	text-align: center;
+ }
+    
+footer {
+	font: 18px/25px 'old standard tt', sans-serif;
+	color: #333;
+	margin-top: 15px;
+}
+
+@media screen and (max-width: 700px) {
+    .github {
+		display: none;
+	}
+}
+
+.circle img {
+	border-radius: 50%;
+	filter:progid:DXImageTransform.Microsoft.Alpha(opacity=100);
+	-moz-opacity: 1.0;
+	opacity: 1.0;				
+}
