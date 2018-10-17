@@ -43,7 +43,8 @@ a:active {
     background: #808080;
     width: 100%;
     color: #FFF;
-    font: 24px/24px 'Tangerine', sans-serif;
+	font-family: 'Tangerine', cursive;
+    font-size: 30px;
     padding-top: 15px;
     padding-bottom: 10px;
 }
@@ -109,8 +110,8 @@ a:active {
 	margin-left: 0px;
 }
     
-#vita    ul {
-	font: 28px/32px 'Tangerine', sans-serif;
+#vita ul {
+	font: 18px/24px 'old standard tt', sans-serif;
 	list-style-type: none;
 	text-align: center;
 	margin-top: 0px;
@@ -120,7 +121,7 @@ a:active {
  }
  
 #vita p {
-	font: 32px/38px 'Tangerine', sans-serif;
+	font: 24px/32px 'old standard tt', sans-serif;
 	margin-bottom: 15px;
 	text-align: center;
  }
