@@ -9,13 +9,13 @@ html {
 
 body {
     color: #333;
-    font: 18px/24px 'old standard tt', sans-serif;
+    font-family: 18px/24px 'old standard tt', sans-serif;
     margin: 0 auto;
     max-width: 700px;
     _width: 700px;
     padding: 0 10px;
     text-align: center;
-    -webkit-font-smoothing: antialiased;
+    -webkit-font-family-smoothing: antialiased;
 }
 
 a:link {
@@ -43,7 +43,7 @@ a:active {
     background: #808080;
     width: 100%;
     color: #FFF;
-    font: 24px/24px 'Tangerine', sans-serif;
+    font-family: 24px/24px 'Tangerine', sans-serif;
     padding-top: 15px;
     padding-bottom: 10px;
 }
@@ -73,7 +73,7 @@ a:active {
     background: #DDD;
     width: 100%;
     color: #333;
-    font: 32px/24px 'Tangerine', sans-serif;
+    font-family-family: 32px/24px 'Tangerine', sans-serif;
     padding-top: 25px;
     padding-bottom: 25px;
 }    
@@ -109,7 +109,7 @@ a:active {
 }
     
 #vita    ul {
-	font: 28px/32px 'Tangerine', sans-serif;
+	font-family: 28px/32px 'Tangerine', sans-serif;
 	list-style-type: none;
 	text-align: center;
 	margin-top: 0px;
@@ -119,13 +119,13 @@ a:active {
  }
  
 #vita p {
-	font: 32px/38px 'Tangerine', sans-serif;
+	font-family: 32px/38px 'Tangerine', sans-serif;
 	margin-bottom: 15px;
 	text-align: center;
  }
     
 footer {
-	font: 18px/25px 'old standard tt', sans-serif;
+	font-family: 18px/25px 'old standard tt', sans-serif;
 	color: #333;
 	margin-top: 15px;
 }
