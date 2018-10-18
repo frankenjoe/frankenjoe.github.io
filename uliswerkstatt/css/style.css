@@ -9,7 +9,8 @@ html {
 
 body {
     color: #333;
-    font: 18px/24px 'old standard tt', sans-serif;
+	font-family: 'Old Standard TT', serif;
+    font-size: 20px;
     margin: 0 auto;
     max-width: 700px;
     _width: 700px;
@@ -111,7 +112,8 @@ a:active {
 }
     
 #vita ul {
-	font: 18px/24px 'old standard tt', sans-serif;
+	font-family: 'Old Standard TT', serif;
+	font-size: 20px;
 	list-style-type: none;
 	text-align: center;
 	margin-top: 0px;
@@ -121,13 +123,15 @@ a:active {
  }
  
 #vita p {
-	font: 24px/32px 'old standard tt', sans-serif;
+	font-family: 'Old Standard TT', serif;
+	font-size: 32px;
 	margin-bottom: 15px;
 	text-align: center;
  }
     
 footer {
-	font: 18px/25px 'old standard tt', sans-serif;
+	font-family: 'Old Standard TT', serif;
+	font-size: 20px;
 	color: #333;
 	margin-top: 15px;
 }
